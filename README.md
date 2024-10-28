@@ -1,1 +1,1 @@
-# Multi-Agent-Systems-Project for Gustave Eiffel University
+# Multi Agent Systems project conducted at Gustave Eiffel University
